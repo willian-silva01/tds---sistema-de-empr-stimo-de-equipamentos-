@@ -1,3 +1,4 @@
+# Equipe: Willian, Leonardo e João Marcos
 # Sistema de Empréstimo de Equipamentos
 
 Projeto acadêmico desenvolvido para a disciplina de **Teste de Software**.
